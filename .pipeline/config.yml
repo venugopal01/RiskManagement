@@ -29,8 +29,8 @@
           apiEndpoint: "https://api.cf.us10.hana.ondemand.com"
           org: "venu-btp-ide-cf-us10-99afvf6k"
           space: "Venu-cld-space2"
-          credentialsId: "cfdeploy"
+          credentialsId: "venu-cfdeploy"
           appName: ""
         mtaDeployParameters: "-f --version-rule ALL"
-     artifactPrepareVersion:
+    artifactPrepareVersion:
         versioningType: "cloud_noTag"
